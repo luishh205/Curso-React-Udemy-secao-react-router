@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "8",
+      "name": "Lapis",
+      "price": "23",
+      "info": "Usado"
+    },
+    {
+      "id": "388d",
+      "name": "Blusa",
+      "price": "33"
+    }
+  ]
+}
